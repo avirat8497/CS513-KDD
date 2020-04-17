@@ -1,0 +1,8 @@
+1-Load the “breast-cancer-wisconsin.data.csv” from canvas into R and perform the EDA analysis by:
+I.Summarizing each column (e.g. min, max, mean )
+II.Identifying missing values
+III.Replacing the missing values with the “mean” of the column.
+IV.Displaying the frequency table of “Class” vs. F6
+V.Displaying the scatter plot of F1 to F6, one pair at a time
+VI.Show histogram box plot for columns F7 to F92- Delete all the objects from your R- environment. 
+Reload the “breast-cancer-wisconsin.data.csv” from canvas into R. Remove any row with a missing value in any of the columns.
